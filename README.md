@@ -13,3 +13,26 @@
 1. QML\Qt Quick на практике - https://www.youtube.com/watch?v=ecKxvyhUFk4
 1. Вебинар по QML и QtQuick: часть первая - https://www.youtube.com/watch?v=VWLwLzZ4gZk
 1. Вебинар по QML и QtQuick: часть вторая - https://www.youtube.com/watch?v=gfOZe4nTZKY
+
+# Процесс
+1. Проектирование
+1. Разработка
+1. Тестирование
+1. Публикация
+
+# Содержание
+1. Начало работы с Qt
+1. Редактор QtCreator
+1. Основы Quick
+1. Анимация
+1. Модели
+1. Мультимедиа
+1. Сеть
+1. Хранилище
+1. Динамические объекты
+1. JavaScript
+1. Qt и C++ 
+1. Расширение QML с помощью C++
+1. Симуляция частиц
+1. Шейдеры
+1. Canvas
