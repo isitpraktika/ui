@@ -6,6 +6,7 @@
 1. Поддерживаемые платформы - http://doc.qt.io/qt-5/supported-platforms.html
 1. Поддерживамые устройства (встраиваемые) - http://doc.qt.io/QtEnterpriseEmbedded/qtee-supported-platforms.html
 1. Сделано с использованием Qt - https://www.qt.io/built-with-qt/
+1. Книга - https://qmlbook.github.io/
 
 # Демонстрация возможностей Qt
 1. Embedded Qt Automotive Digital Dashboard - https://www.youtube.com/watch?v=XxnS5PLGBV4
