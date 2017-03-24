@@ -37,3 +37,8 @@
 1. Симуляция частиц
 1. Шейдеры
 1. Canvas
+
+# Ресурсы
+1. (ru) Введение в Qt Quick 2 и QML - https://kaimi.io/2015/05/qt-quick-2-qml-beginning/
+1. (ru) Книга "Qt 5.3. Профессиональное программирование на C++" - https://www.ozon.ru/context/detail/id/31619787/
+1. (en) Qt5 Cadaques - https://qmlbook.github.io/
