@@ -1,3 +1,14 @@
+# Кроссплатформенные мобильные библиотеки
+1. Qt/Qml
+1. Appceleratior Titanium
+1. Kony Platform
+1. Adobe PhoneGap
+1. IBM Worklight
+1. Telerik Platform
+1. Verivo Akula
+1. Xamarin
+1. Unity
+
 # Qt
 1. Сайт - https://www.qt.io/
 1. Дистрибутив - http://download.qt.io/official_releases/qt/5.8/5.8.0/qt-opensource-windows-x86-mingw530-5.8.0.exe
@@ -42,3 +53,7 @@
 1. (ru) Введение в Qt Quick 2 и QML - https://kaimi.io/2015/05/qt-quick-2-qml-beginning/
 1. (ru) Книга "Qt 5.3. Профессиональное программирование на C++" - https://www.ozon.ru/context/detail/id/31619787/
 1. (en) Qt5 Cadaques - https://qmlbook.github.io/
+1. Разработка пользовательских интерфейсов / Дженифер Тидвелл 2011
+1. Сначала мобильные! / Люк Вроблевски 2012
+1. Mobile Design Pattern Gallery, 2nd Edition / Theresa Neil 2014
+1. Qt 5.3. Профессиональное программирование на C++ / Макс Шлее 2015
